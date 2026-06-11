@@ -45,3 +45,9 @@ Competition Agent Harness Workflow v0.1.1 has been initialized under `E:\rz\rese
 - Added `demo/index.html` as a dependency-free browser projection page.
 - The page uses local relative image references to `../rank1.jpg` and `../rank2.png`.
 - The page presents the workflow in this order: evidence-backed opening, pain points, L0-L3 map, L1 method pool, L2 problem-driven innovation, rank screenshots, submission gate, Tabbit context surface, closing value.
+## 2026-06-12 GitHub Publication
+
+- Initialized a local git repository.
+- Created public GitHub repository: `https://github.com/zerong7777-boop/competition-agent-workflow`.
+- Pushed the workflow, templates, demo cut-down, static projection page, and rank evidence images to `main`.
+- Local git author email is set to GitHub noreply for this repository to satisfy GitHub private email protection.

@@ -8,4 +8,10 @@ After review, the next useful step is either:
 2. Convert the slide outline into a PPT-style deck; or
 3. Run a mock Tabbit prompt using `demo/TABBIT_DEMO_SCRIPT.md` and refine the prompts.
 
+Repository:
+
+- GitHub: `https://github.com/zerong7777-boop/competition-agent-workflow`
+- Remote: `origin`
+- Branch: `main`
+
 Do not modify upstream Agent Harness files under `E:\codex-home`.
