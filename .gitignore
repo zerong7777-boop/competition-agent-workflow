@@ -1,0 +1,28 @@
+# OS and editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Local runtime/cache artifacts
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+*.log
+*.tmp
+
+# Python/Node environments if future tooling is added
+.venv/
+venv/
+node_modules/
+dist/
+build/
+
+# Local-only scratch space
+tmp/
+scratch/
