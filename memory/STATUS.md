@@ -58,3 +58,8 @@ Competition Agent Harness Workflow v0.1.1 has been initialized under `E:\rz\rese
 - Reordered the presentation around pain point, control flow, L1 paradigm sweep, L2 problem-driven innovation, route scoreboard, submission stop gate, evidence chain, optional Tabbit surface, and closing value.
 - Downgraded Tabbit from a main demo dependency to an optional context surface cameo.
 - Verified desktop and mobile first-screen rendering with Chrome headless screenshots.
+## 2026-06-12 Static Projection Page V3
+
+- Removed the optional Tabbit/tool-surface page from `demo/index.html`.
+- The projection now closes directly after evidence chain with the final value slide.
+- Updated demo README and next-step memory to describe the page as an HTML-only main presentation.

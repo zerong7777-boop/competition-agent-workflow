@@ -698,49 +698,6 @@
       overflow-wrap: anywhere;
     }
 
-    .surface {
-      background: #eceff2;
-    }
-
-    .surface-layout {
-      display: grid;
-      grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
-      gap: 24px;
-      align-items: center;
-    }
-
-    .surface-list {
-      display: grid;
-      gap: 12px;
-    }
-
-    .surface-item {
-      padding: 16px 18px;
-      border: 1px solid var(--line);
-      border-radius: 8px;
-      background: var(--paper);
-      color: var(--muted);
-      font-size: 18px;
-      line-height: 1.42;
-      overflow-wrap: anywhere;
-    }
-
-    .surface-item b {
-      color: var(--ink);
-    }
-
-    .code-box {
-      padding: 22px;
-      border: 1px solid var(--line);
-      border-radius: 8px;
-      background: var(--dark);
-      color: #f5f7f8;
-      font-family: Consolas, "Courier New", monospace;
-      font-size: 17px;
-      line-height: 1.55;
-      overflow-wrap: anywhere;
-    }
-
     .closing {
       color: #fff;
       background: var(--dark);
@@ -809,7 +766,6 @@
       .contrast-grid,
       .gate-layout,
       .chain-grid,
-      .surface-layout,
       .two-grid {
         grid-template-columns: 1fr;
       }
@@ -920,7 +876,6 @@
       <a href="#routes">路线</a>
       <a href="#gate">门控</a>
       <a href="#chain">证据链</a>
-      <a href="#surface">接入</a>
     </nav>
   </header>
   <div class="progress" id="progress"></div>
@@ -1189,24 +1144,6 @@ Route Score = Ceiling + Task Fit + Code Maturity + Ensemble Value
             <div class="chain-step"><b>Scoreboard</b><span>Route Scoreboard 解释哪些路线是 mainline、source、control 或 reject。</span></div>
             <div class="chain-step"><b>Gate</b><span>Submission Gate 证明 agent 不会把坏结果强行包装成提交。</span></div>
           </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="slide surface" id="surface">
-      <div class="slide-inner surface-layout">
-        <div>
-          <p class="kicker">Optional Tool Surface</p>
-          <h2>Tabbit 可以接入，但不是主角。</h2>
-          <p class="section-note">主展示由这个 HTML 完成。Tabbit 只作为可选上下文入口：读取同一批 artifacts，然后按 workflow 口径输出路线决策。</p>
-        </div>
-        <div class="surface-list">
-          <div class="surface-item"><b>主线：</b>HTML 投屏页讲清楚证据、流程、L1/L2 和 gate。</div>
-          <div class="surface-item"><b>可选：</b>Tabbit 读取截图与 markdown，输出 Route Decision。</div>
-          <div class="surface-item"><b>边界：</b>不依赖现场网络，不声明实时榜单，不让 Tabbit 直接生成提交包。</div>
-          <div class="code-box">Prompt cameo:
-根据 Route Scoreboard 和 Negative Submission Gate，
-输出 mainline / source / reject，以及是否允许 package_for_submission。</div>
         </div>
       </div>
     </section>

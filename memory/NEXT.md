@@ -6,7 +6,7 @@ After review, the next useful step is either:
 
 1. Tighten the static HTML copy and layout; or
 2. Convert the slide outline into a PPT-style deck; or
-3. Rehearse the HTML-only route and keep Tabbit as an optional short cameo.
+3. Rehearse the HTML-only route without relying on Tabbit or any live tool.
 
 Repository:
 
