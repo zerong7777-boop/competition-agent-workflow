@@ -18,6 +18,8 @@ Static projection page:
 - `index.html`: local, dependency-free HTML page for browser projection.
 - It references `../rank1.jpg` and `../rank2.png` by relative path.
 - It can be opened directly from the filesystem; no dev server is required.
+- The current V2 projection flow treats HTML as the main demo and Tabbit as an optional context surface.
+- The V2 flow emphasizes: historical rank evidence, L0-L3 control flow, L1 paradigm sweep, L2 problem-driven innovation, route scoreboard, submission gate, evidence chain, and optional tool-surface binding.
 
 Evidence images:
 
@@ -27,4 +29,4 @@ Evidence images:
 Boundary:
 
 - This demo does not claim real-time leaderboard status.
-- This demo does not require Tabbit, but Tabbit can be used as the presentation and context-execution surface.
+- This demo does not require Tabbit. Tabbit can be used as a short optional cameo, but the presentation should remain complete without it.

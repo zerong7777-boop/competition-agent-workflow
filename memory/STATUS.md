@@ -51,3 +51,10 @@ Competition Agent Harness Workflow v0.1.1 has been initialized under `E:\rz\rese
 - Created public GitHub repository: `https://github.com/zerong7777-boop/competition-agent-workflow`.
 - Pushed the workflow, templates, demo cut-down, static projection page, and rank evidence images to `main`.
 - Local git author email is set to GitHub noreply for this repository to satisfy GitHub private email protection.
+## 2026-06-12 Static Projection Page V2
+
+- Reworked `demo/index.html` from a documentation-style projection page into a 3-5 minute hackathon presentation page.
+- Strengthened the hero with rank evidence, GitHub repository entry, and a clearer positioning line.
+- Reordered the presentation around pain point, control flow, L1 paradigm sweep, L2 problem-driven innovation, route scoreboard, submission stop gate, evidence chain, optional Tabbit surface, and closing value.
+- Downgraded Tabbit from a main demo dependency to an optional context surface cameo.
+- Verified desktop and mobile first-screen rendering with Chrome headless screenshots.

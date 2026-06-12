@@ -1,12 +1,12 @@
 ﻿# Next
 
-Recommended next move: open `demo/index.html` locally and review the projection flow for tone, pacing, and visual density.
+Recommended next move: open `demo/index.html` locally and review the V2 projection flow for tone, pacing, and visual density.
 
 After review, the next useful step is either:
 
 1. Tighten the static HTML copy and layout; or
 2. Convert the slide outline into a PPT-style deck; or
-3. Run a mock Tabbit prompt using `demo/TABBIT_DEMO_SCRIPT.md` and refine the prompts.
+3. Rehearse the HTML-only route and keep Tabbit as an optional short cameo.
 
 Repository:
 
