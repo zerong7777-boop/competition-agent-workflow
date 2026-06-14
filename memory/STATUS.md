@@ -63,3 +63,8 @@ Competition Agent Harness Workflow v0.1.1 has been initialized under `E:\rz\rese
 - Removed the optional Tabbit/tool-surface page from `demo/index.html`.
 - The projection now closes directly after evidence chain with the final value slide.
 - Updated demo README and next-step memory to describe the page as an HTML-only main presentation.
+## 2026-06-14 Tabbit Skill Artifact
+
+- Added `tabbit-skill/SKILL.md` as the upload/paste artifact for the Tabbit hackathon.
+- The skill is a single "competition leaderboard controller" that turns competition materials into L0/L1/L2/L3 decisions, route scoreboard, and submission intent gate output.
+- The skill explicitly forbids fabricating live leaderboard status, treating smoke tests as formal results, or generating submission packages under `do_not_package`.

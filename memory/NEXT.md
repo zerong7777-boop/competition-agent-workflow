@@ -1,12 +1,12 @@
 ﻿# Next
 
-Recommended next move: open `demo/index.html` locally and review the V2 projection flow for tone, pacing, and visual density.
+Recommended next move: upload or paste `tabbit-skill/SKILL.md` into Tabbit as the required reusable skill artifact.
 
 After review, the next useful step is either:
 
-1. Tighten the static HTML copy and layout; or
-2. Convert the slide outline into a PPT-style deck; or
-3. Rehearse the HTML-only route without relying on Tabbit or any live tool.
+1. Publish the Tabbit skill and record the shared skill link; or
+2. Add the Tabbit skill link to the projection page and README; or
+3. Rehearse the HTML route with the Tabbit skill link as the required competition submission artifact.
 
 Repository:
 

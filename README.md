@@ -27,6 +27,10 @@ Demo cut-down:
 - [`demo/DEMO_NARRATIVE.md`](demo/DEMO_NARRATIVE.md)
 - [`demo/TABBIT_DEMO_SCRIPT.md`](demo/TABBIT_DEMO_SCRIPT.md)
 
+Tabbit submission artifact:
+
+- [`tabbit-skill/SKILL.md`](tabbit-skill/SKILL.md): upload/paste this as the Tabbit reusable skill for the hackathon.
+
 Evidence images:
 
 - [`rank1.jpg`](rank1.jpg): historical CodaBench rank-1 screenshot for `ze_rong` on 2026-05-09.
